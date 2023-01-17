@@ -23,4 +23,9 @@ public class LoginController {
 	public String login() {
 		return "Login";
 	}
+	
+//	@PostMapping
+//	public String login() {
+//		return "Login";
+//	}
 }
